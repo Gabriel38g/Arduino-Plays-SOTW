@@ -91,6 +91,8 @@
 #define NOTE_D8  4699
 #define NOTE_DS8 4978
 
+// My Code starts here! 
+
 #define WH_NOTE 1000
 #define H2_NOTE 500
 #define DTTD2_NOTE 750 //yes, dotted note should be 666
